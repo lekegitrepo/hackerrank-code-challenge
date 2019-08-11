@@ -1,4 +1,4 @@
-# apple.com-clone
+# Drawing Book
 
 
 Brie’s Drawing teacher asks her class to open their books to a page number. Brie can either start turning pages from the front of the book or from the back of the book. She always turns pages one at a time. When she opens the book, page 1 is always on the right side:
